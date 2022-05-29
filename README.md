@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h4 align="center">I am a Software Developer at Kapsül Teknoloji Platformu. I like to Code, Research and Innovations. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-## 📈 📊 🔥 Streak Stats
+## 📈  🔥 Streak Stats
 <p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyldrm16&theme=algolia" alt="ademkesim"  /></p>
 
 ## 👨🏻‍💻🙋🏻‍♂️  Let's Connect
