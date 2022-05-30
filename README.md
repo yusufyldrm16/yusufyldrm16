@@ -21,13 +21,28 @@ Here are some ideas to get you started:
 <h4 align="center">I am a Software Developer at Kapsül Teknoloji Platformu. I like to Code, Research and Innovations. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-## 📈  🔥 Streak Stats
-<p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyldrm16&theme=algolia" alt="ademkesim"  /></p>
 
-## 👨🏻‍💻🙋🏻‍♂️  Let's Connect
+## 📈 Statistics
 <p align="center">
-  <a href="https://www.linkedin.com/in/yusuf-muhammet-yildirim-b8673b196"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/yusufyldrm16"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="mailto:yusufyldrm1625@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.instagram.com/yusufyildiiriim"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yusufyldrm16&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyldrm16&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyldrm16&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+
+
+## Hi there 👋  Yusuf . (LOADING...)
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-muhammet-yildirim-b8673b196) 
+
+
+### What I'm using ? 🛠 
+
+<!-- I prefer React & React Native for web/mobile front-end development. -->
+<br/>
+
+- Swift, SwiftUI, RestApi, Git, GitHub
+
+- 💬 Ask  me about anything that you want to learn
+
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yusuf-muhammet-yildirim-b8673b196" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18"/></a>
+
